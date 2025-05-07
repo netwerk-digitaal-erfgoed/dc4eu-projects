@@ -1,6 +1,6 @@
 # DC4EU-projects
 
-[https://github.com/orgs/netwerk-digitaal-erfgoed/projects/6](DC4EU project board) for projects with focus on getting linked data of heritage organisations to Europeana.
+DC4EU projects with focus on getting linked data of heritage organisations to Europeana.
 
 # Related repositories
 
